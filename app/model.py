@@ -15,8 +15,6 @@ from sklearn.metrics import r2_score
 import joblib
 import config
 
-import path
-
 from pathlib import Path
 BASE_DIR = Path(__file__).resolve(strict=True).parent
 
